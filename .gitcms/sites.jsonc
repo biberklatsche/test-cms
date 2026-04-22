@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "cogno",
+      "display_name": "Site",
+      "website_url": "https://cogno.rocks",
+      "root_path": ""
+    }
+  ]
+}

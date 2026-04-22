@@ -1,0 +1,17 @@
+{
+  "version": "1",
+  "media_path": "/public",
+  "ssg_framework": "astro",
+  "frontmatter_format": "yaml",
+  "sitemap_url": "https://cogno.rocks/sitemap-index.xml",
+  "publishing_mode": "direct_publish",
+  "collections": [
+    {
+      "name": "blog",
+      "git_path": "",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "label": "Blog Posts"
+    }
+  ]
+}
